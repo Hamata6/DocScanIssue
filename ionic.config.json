@@ -1,0 +1,7 @@
+{
+  "name": "DocScanIssue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
