@@ -24,7 +24,7 @@
     "@ionic-native/core": "^5.32.1",
     "@ionic-native/document-scanner": "^5.32.1",
     "@ionic/angular": "^5.5.2",
-    "cordova-plugin-document-scanner": "^4.2.6",
+    "cordova-plugin-document-scanner": "^5.0.0-beta.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
